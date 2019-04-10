@@ -64,7 +64,7 @@ div>a>img:hover{
     font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
-.block p {  
+.block p {
     margin-left: 3%;
     font-family: "Comic Sans MS", cursive, sans-serif;
     font-size: 120%;
@@ -88,5 +88,16 @@ div>a>img:hover{
 
 .weaponImage {
     width: 60%;
+    margin-left: 20%;
+}
+
+.textContainer {
+    margin-right: 2%;
+    margin-left: 2%;
+    background-color: #f2f2f2;
+    border: 3px solid #ababab;
+}
+
+#textBottom {
     margin-left: 20%;
 }

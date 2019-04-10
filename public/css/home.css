@@ -63,3 +63,8 @@ div>a>img:hover{
     font-family: "Comic Sans MS", cursive, sans-serif;
     font-size: 120%;
 }
+
+#introDiv {
+    background-color: #f2f2f2;
+    border: 3px solid #ababab;
+}

@@ -75,3 +75,10 @@ div>a>img:hover{
     width: 50%;
     margin-left: 20%;
 }
+
+.textContainer {
+    margin-right: 2%;
+    margin-left: 2%;
+    background-color: #f2f2f2;
+    border: 3px solid #ababab;
+}
