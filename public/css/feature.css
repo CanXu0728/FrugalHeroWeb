@@ -1,0 +1,92 @@
+body{
+    background-image: url("/img/background.jpg");
+}
+
+/* navbar */
+.nav-item{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+nav>div>ul>li>a{
+    padding-top: 16px !important;
+    padding-bottom: 16px !important; 
+    border-bottom: 3px solid transparent;
+}
+
+nav>div>ul>li>a:hover{
+    border-bottom: 3px solid #ababab;
+}
+
+.navbar-toggler{
+    margin-top: 9px;
+    margin-bottom: 10px;
+}
+
+button:focus, button:active:focus, button.active:focus{
+    outline:none !important;
+    box-shadow:none !important;
+}
+
+.navbar-toggler:hover{
+    box-shadow: 0 0 0 2px #ababab !important;
+}
+
+/* user icon */
+.icon{
+    width: 40px;
+    margin-right: 10px;
+}
+
+div>a>img:hover{
+    box-shadow: 0 0 0 2px #ababab;
+}
+
+/* main block */
+.container {
+    width: 70% !important;
+    margin-top: 60px;
+}
+
+.storyImage {
+    width: 90%;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.block {
+    margin-left: 5%;
+    margin-top: 80px;
+    border-bottom: 3px solid black;
+}
+
+.block h2 strong {
+    margin-left: 3%;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.block p {  
+    margin-left: 3%;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 120%;
+}
+#storyDiv ul {
+    list-style: none;
+}
+
+.artImage {
+    width: 300px;
+}
+
+#artDiv ul {
+    margin-left: 10%;
+    list-style: none;
+}
+
+#artDiv ul li {
+    display: inline;
+}
+
+.weaponImage {
+    width: 60%;
+    margin-left: 20%;
+}
